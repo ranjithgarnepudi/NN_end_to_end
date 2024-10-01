@@ -1,0 +1,5 @@
+ipykernel
+tensorflow
+pandas
+scikit-learn
+pickle
